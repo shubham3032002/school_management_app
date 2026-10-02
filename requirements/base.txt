@@ -1,0 +1,16 @@
+django>=5.0
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+drf-spectacular
+psycopg2-binary
+django-redis
+celery
+django-celery-beat
+django-storages
+boto3
+weasyprint
+openpyxl
+django-cors-headers
+argon2-cffi
+razorpay
