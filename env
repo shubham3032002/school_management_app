@@ -1,0 +1,11 @@
+# Secret used to sign login sessions - change this before deploying
+SECRET_KEY=change-this-to-a-long-random-string
+
+# Default is a local SQLite file (no setup needed).
+# To use PostgreSQL, uncomment the next line and run: pip install psycopg2-binary
+# DATABASE_URL=postgresql://postgres:password@localhost:5432/school_db
+
+SCHOOL_NAME=Greenfield High School
+SEED_PASSWORD=school123
+PORT=5000
+FLASK_DEBUG=1
